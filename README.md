@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thetis-apps
-- 👀 I’m interested in all things related to software development for logistics.
+- 👀 I’m interested in all things related to software development.
 - 🌱 I’m currently learning to play the piano
-- 💞️ I’m looking to collaborate on any solution related to logistics.
 - 📫 Call me +45 25101409
 
 <!---
